@@ -10,4 +10,4 @@ function comCalculator($tutFee)
 
 }
 
-echo (comCalculator(5000));
+echo (comCalculator(25000));
