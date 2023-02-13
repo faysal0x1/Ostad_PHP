@@ -10,27 +10,18 @@ function checkNum($n)
     }
 }
 
-
-
 $num = 0;
-
-// echo checkNum(0);
-
-
+echo checkNum(0);
 //  1+2+3...…….100  Write a loop to calculate the summation of the series
-
 function sumSeries($start, $end)
 {
     $sum = 0;
-
     for ($i = $start; $i <= $end; $i++) {
         $sum += $i;
     }
-
     return $sum;
 }
 
 $start = 1;
 $end = 100;
-
 echo (sumSeries($start, $end));
