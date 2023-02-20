@@ -14,3 +14,7 @@ $string2 = 'Hello123';
 
 
 echo $string1 . " " . containsOnlyLettersAndWhitespace($string1);
+
+
+// Output
+// Hello World Is a valid Input
