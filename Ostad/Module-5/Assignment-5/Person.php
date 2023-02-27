@@ -56,7 +56,7 @@
 $person1 = new Person();
 
 
-// $person1->setName('Faysal');
-// $person1->setEmail('faysalk461@gmail.com');
-// $person1->DisplayPerson();
+$person1->setName('Faysal');
+$person1->setEmail('faysalk461@gmail.com');
+$person1->DisplayPerson();
 ?>
